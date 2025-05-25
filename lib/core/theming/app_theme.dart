@@ -5,5 +5,6 @@ class AppTheme {
   static ThemeData lightTheme = ThemeData(
     primaryColor: AppColors.mainBlueColor,
     scaffoldBackgroundColor: Colors.white,
+    fontFamily: '',
   );
 }
